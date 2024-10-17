@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View My Solution on Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [View My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-THRVO1Z3S7)
 - Live Site URL: [Visit the Live Site](https://adanmaidana.github.io/Frontend-Mentor-Bento-Grid/)
 - Figma Prototype: [View my design on Figma](https://www.figma.com/design/4DK5hBLCKt2Y1J0HSOIIbA/Frontend-Mentor---Landing-Page-with-Bento-Grid?node-id=0-1&t=dnaSDa4AS9UesVWH-1)
 
