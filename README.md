@@ -52,7 +52,7 @@ During the development of this project, I learned to:
 
 ### Useful resources
 
-- [YouTube Tutorial](https://www.youtube.com/watch?v=ZfZ7USaRZCc)- It helped me understand how to use rows and columns to distribute the content as I wanted."
+- [YouTube Tutorial](https://www.youtube.com/watch?v=ZfZ7USaRZCc) - It helped me understand how to use rows and columns to distribute the content as I wanted."
 
 ## Author
 
