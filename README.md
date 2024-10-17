@@ -13,10 +13,10 @@ Users should be able to:
 ### Screenshot
 
 ### Vista previa de escritorio
-![](/assets/images/desktop-preview.jpg)
+![](./assets/images/desktop-preview.jpg)
 
 ### Vista previa móvil
-![](/assets/images/mobile-preview.png)
+![](./assets/images/mobile-preview.png)
 
 ### Links
 
