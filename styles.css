@@ -327,7 +327,6 @@ body {
   p:nth-of-type(2) {
     font-size: 1.10rem;
     margin-bottom: 1rem;
-    -webkit-text-stroke: .15px;
   }
 
   img {
