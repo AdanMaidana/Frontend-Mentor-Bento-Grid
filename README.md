@@ -12,16 +12,16 @@ Users should be able to:
 
 ### Screenshot
 
-### Vista previa de escritorio
+### Desktop Preview
 ![](./assets/images/desktop-preview.jpg)
 
-### Vista previa móvil
+### Mobile Preview
 ![](./assets/images/mobile-preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-THRVO1Z3S7)
+- Live Site URL: [Visit the Live Site](https://adanmaidana.github.io/Frontend-Mentor-Bento-Grid/)
 - Figma Prototype: [View my design on Figma](https://www.figma.com/design/4DK5hBLCKt2Y1J0HSOIIbA/Frontend-Mentor---Landing-Page-with-Bento-Grid?node-id=0-1&t=dnaSDa4AS9UesVWH-1)
 
 
@@ -52,7 +52,7 @@ During the development of this project, I learned to:
 
 ### Useful resources
 
-- [YouTube Tutorial](https://www.youtube.com/watch?v=ZfZ7USaRZCc)- It helped me understand how to use rows and columns to distribute the content as I wanted."
+- [YouTube Tutorial](https://www.youtube.com/watch?v=ZfZ7USaRZCc) - It helped me understand how to use rows and columns to distribute the content as I wanted."
 
 ## Author
 
